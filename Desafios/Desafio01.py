@@ -1,0 +1,1 @@
+print("Olá, me chamo Alfredo, curso Ciencia da computação, estou no segundo período e eu pretendo aprender python para me forma tecnico de informatica e futuramente me tornar um desenvolvedor de software.")
